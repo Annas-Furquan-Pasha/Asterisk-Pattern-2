@@ -1,4 +1,4 @@
-# A simple astrisks pattern in python
+# A simple Asterisk pattern in python
 # example : for height=4 the pattern is
 # *
 # **
